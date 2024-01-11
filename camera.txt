@@ -1,4 +1,0 @@
-canon
-sonar
-raidar
-radar 
